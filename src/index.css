@@ -8,6 +8,7 @@ body {
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
   min-height: 100vh;
+  border: solid 16px #eef2ff;
 }
 
 * {
